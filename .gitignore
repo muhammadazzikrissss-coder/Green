@@ -1,0 +1,36 @@
+# ============= Unity =============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Mono / IL2CPP
+[Mm]ono/
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.suo
+
+# MacOS & Linux
+*.swp
+*~
+
+# Optional: large binary
+*.blend
+*.fbx.raw
