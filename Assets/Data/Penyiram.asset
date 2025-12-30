@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4dada1ffa8411944b2ed410146cdd6c, type: 3}
+  m_Name: Penyiram
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: WaterCan
+  icon: {fileID: 21300000, guid: d380380be8232c840a6507ea72ec219e, type: 3}
+  itemType: 0
+  cropData: {fileID: 0}
+  toolActionName: Watering

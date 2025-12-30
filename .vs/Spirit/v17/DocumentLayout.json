@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\projectunity\\spirit\\assets\\scripts\\toolbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toolbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\assets\\scripts\\universalfarmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\universalfarmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\projectunity\\spirit\\assets\\scripts\\farmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\projectunity\\spirit\\assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\projectunity\\spirit\\assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\assets\\scripts\\cropdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cropdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\assets\\scripts\\toolbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toolbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\assets\\scripts\\testplayercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testplayercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\assets\\scripts\\farmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farmplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B056E28-B97A-CA72-1621-89147B88700F}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\assets\\scripts\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +54,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T01:07:56.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemData.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T01:05:38.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UniversalFarmPlot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\UniversalFarmPlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UniversalFarmPlot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\UniversalFarmPlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UniversalFarmPlot.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T00:53:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CropData.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\CropData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CropData.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\CropData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CropData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T00:40:41.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ToolbarManager.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\ToolbarManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ToolbarManager.cs",
@@ -50,12 +117,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ToolbarManager.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAUwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T09:04:27.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T09:04:27.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TestPlayerControls.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\TestPlayerControls.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TestPlayerControls.cs",
@@ -67,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FarmPlot.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\FarmPlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FarmPlot.cs",
@@ -75,12 +141,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FarmPlot.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAqwJEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T11:01:08.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T11:01:08.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MobileJoystick.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\MobileJoystick.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MobileJoystick.cs",
@@ -92,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Library\\PackageCache\\com.unity.render-pipelines.universal@d9aadd996b24\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@d9aadd996b24\\Shaders\\Lit.shader",
@@ -105,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CameraManager.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\CameraManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraManager.cs",
@@ -117,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "PlayerControl.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ProjectUnity\\Spirit\\Assets\\Scripts\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",

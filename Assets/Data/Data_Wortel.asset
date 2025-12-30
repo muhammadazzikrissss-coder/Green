@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c0c8da93c2308d4c8667c034ba863a1, type: 3}
+  m_Name: Data_Wortel
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  cropName: Wortel
+  growthTime: 5
+  growthSprites:
+  - {fileID: 21300000, guid: ff6efe1ec4f93d54a8795a47757d1c98, type: 3}
+  - {fileID: 21300000, guid: ef7d58154dd26304d87bffa0c7e35f70, type: 3}
+  - {fileID: 21300000, guid: 227ff2869a7f8f24898fb029a3eb0658, type: 3}
+  iconUI: {fileID: 21300000, guid: a219f694170748d448067be4d19de122, type: 3}
